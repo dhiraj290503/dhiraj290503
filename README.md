@@ -1,54 +1,45 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Jagdale</h1>
-<h3 align="center">🚀 MERN Stack Learner | MCA Student</h3>
+<h3 align="center">Aspiring Full Stack Developer | MERN Stack Learner | MCA Student</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Currently+learning+MERN+Stack;Building+cool+projects+with+JavaScript" alt="Typing SVG" />
+- 🌱 I’m currently learning **MERN Stack Development**
+
+- 📫 How to reach me **jagdaledhirajv@gmail.com**
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/dhiraj290503)
+
+- 📄 Know more about me on [LinkedIn](https://linkedin.com/in/dhiraj-jagdale-484289243)
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS" />  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff" alt="VS Code" />
 </p>
 
 ---
 
-- 🎓 I’m currently pursuing **Masters in Computer Applications (MCA)**
-- 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React, Node.js)**
-- 👨‍💻 I’ve started working on mini projects using **JavaScript & DOM**
-- 📫 How to reach me: jagdaledhirajv@gmail.com
-
----
-
-### 🛠️ Languages and Tools
+### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj290503&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj290503&layout=compact&theme=react&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Connect with me:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiraj2900503&show_icons=true&theme=dark&hide_title=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiraj2900503&theme=dark" width="48%"/>
+<p>
+  <a href="mailto:jagdaledhirajv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dhiraj-jagdale-484289243"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj2900503&layout=compact&theme=dark" width="50%"/>
-</p>
-
----
-
-### 📌 Projects
-
-- 🎯 IPL Winner Guesser (JS + DOM)
-- 🧠 [Your Other Project Name] – [1 line description]
-
----
-
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/dhiraj-jagdale-484289243)
-
