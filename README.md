@@ -14,17 +14,16 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JS" />  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff" alt="VS Code" />
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="javascript"/>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="html"/>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3" />
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" />
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff" alt="Node.js" />
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" alt="Express.js" />
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=fff" alt="MongoDB" />
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff" alt="GitHub" />
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff" alt="VS Code" />
 </p>
 
 ---
